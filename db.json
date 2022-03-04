@@ -1,9 +1,9 @@
 {
   "supergroup": [
-    null,
-    "Test 1",
-    "Test 2",
-    "Test 3",
-    "Test 4"
+    { "id": "e14f10fc-b10e-4d6c-a14f-ec1eb5e09658", "name": "General" },
+    { "id": "0a18c6ca-ae44-4af1-ac16-ebc9862243a5", "name": "Test 1" },
+    { "id": "dfa9410d-49f6-4c29-8b3c-086838bc7641", "name": "Test 2" },
+    { "id": "ac2e86e5-6d3a-4abe-8d3c-2b484a9253e5", "name": "Test 3" },
+    { "id": "cd6919f2-d446-4233-94f8-ec8888695923", "name": "Test 4" }
   ]
 }
